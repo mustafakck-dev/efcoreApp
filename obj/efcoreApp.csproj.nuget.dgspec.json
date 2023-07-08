@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sadikturan/Desktop/efcoreApp/efcoreApp.csproj": {}
+    "/Users/sadikturan/Desktop/aspnetcore-dersleri/efcoreApp/efcoreApp.csproj": {}
   },
   "projects": {
-    "/Users/sadikturan/Desktop/efcoreApp/efcoreApp.csproj": {
+    "/Users/sadikturan/Desktop/aspnetcore-dersleri/efcoreApp/efcoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sadikturan/Desktop/efcoreApp/efcoreApp.csproj",
+        "projectUniqueName": "/Users/sadikturan/Desktop/aspnetcore-dersleri/efcoreApp/efcoreApp.csproj",
         "projectName": "efcoreApp",
-        "projectPath": "/Users/sadikturan/Desktop/efcoreApp/efcoreApp.csproj",
+        "projectPath": "/Users/sadikturan/Desktop/aspnetcore-dersleri/efcoreApp/efcoreApp.csproj",
         "packagesPath": "/Users/sadikturan/.nuget/packages/",
-        "outputPath": "/Users/sadikturan/Desktop/efcoreApp/obj/",
+        "outputPath": "/Users/sadikturan/Desktop/aspnetcore-dersleri/efcoreApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sadikturan/.nuget/NuGet/NuGet.Config"
