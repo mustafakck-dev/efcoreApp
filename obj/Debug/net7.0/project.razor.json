@@ -18660,6 +18660,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/sadikturan/Desktop/aspnetcore-dersleri/efcoreApp/Views/Ogrenci/Delete.cshtml",
+      "TargetPath": "Views\\Ogrenci\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/sadikturan/Desktop/aspnetcore-dersleri/efcoreApp/Views/Ogrenci/Edit.cshtml",
       "TargetPath": "Views\\Ogrenci\\Edit.cshtml",
       "FileKind": "mvc"
