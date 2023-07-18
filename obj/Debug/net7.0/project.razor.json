@@ -18645,6 +18645,11 @@
   "RootNamespace": "efcoreApp",
   "Documents": [
     {
+      "FilePath": "/Users/sadikturan/Desktop/aspnetcore-dersleri/efcoreApp/Views/Kurs/Edit.cshtml",
+      "TargetPath": "Views\\Kurs\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/sadikturan/Desktop/aspnetcore-dersleri/efcoreApp/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
