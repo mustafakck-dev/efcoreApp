@@ -18685,6 +18685,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/sadikturan/Desktop/aspnetcore-dersleri/efcoreApp/Views/Kurs/Index.cshtml",
+      "TargetPath": "Views\\Kurs\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/sadikturan/Desktop/aspnetcore-dersleri/efcoreApp/Views/Kurs/Create.cshtml",
       "TargetPath": "Views\\Kurs\\Create.cshtml",
       "FileKind": "mvc"
